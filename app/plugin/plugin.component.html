@@ -1,0 +1,24 @@
+<ActionBar title="K-Beauty"></ActionBar>
+
+<FlexboxLayout>
+    <StackLayout class="form">
+        <Image src="~/assets/images/bLogo.jpg"></Image>
+
+        <TextField #email hint="{{emailPHolder}} eg. johndoe@gmail.com" keyboardType="email"
+            autocorrect="false" autocapitalizationType="none" class="input input-border"></TextField>
+        
+        <TextField #pw hint="{{pwPHolder}}" secure='true' class="input input-border"></TextField>
+        <GridLayout rows="auto" columns="*, *">
+            <Button [isEnabled]='!pwreset' row="0" col="0" text="SignUp / LogIn" class="btn btn-primary btn-active w-full fa"
+                (tap)="plugin('signUpOrLogIn', email.text, pw.text)"></Button>
+            <Button [isEnabled]='pwreset' row="0" col="1" text="ResetPW" class="btn btn-primary" (tap)="plugin('resetPW', email.text, pw.text)"></Button>
+        </GridLayout>
+        <StackLayout height="18" backgroundColor="White"></StackLayout>
+
+        <Label text="Hi, I'm Dr Shin"> </Label>
+        <Label text="{{tokenSvc.status}}" textWrap=true> </Label>
+        <Label [text]='tokenSvc.clntKYCDisp.emailID' textWrap=true> </Label>
+        <Label *ngIf='pwtries!=0' text="{{pwPHolder}}" textWrap=true> </Label>
+
+    </StackLayout>
+</FlexboxLayout>

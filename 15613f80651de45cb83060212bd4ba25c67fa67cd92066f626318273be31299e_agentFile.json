@@ -1,0 +1,45 @@
+[{
+		"usr": {
+			"encEmailID": "HkJwxyvHk@Hqqvwxjx.IL",
+			"hshPW": "a98f0e1b2f82ce347546d3b9d1fcfd497346d19684dd5c535b5e20ca4358142f",
+			"clntCreatDate": "2018-08-19T07:56:05.902Z",
+			"usrCode": "andrewtan@apptreme.sg@JScorp",
+			"legalNameID": "Andrew @ Apptreme",
+			"mobileNumID": "87654321"
+		}
+	}, {
+		"id": 0,
+		"offerType": "",
+		"proptyType": "",
+		"district": "",
+		"numBedRms": "",
+		"price": "",
+		"landSize": "",
+		"BUA": "",
+		"stName": "",
+		"listPhotoIcon": "",
+		"ownerName": "ADD NEW",
+		"ownerMobile": "",
+		"ownerEmail": "",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}, {
+		"id": 1,
+		"offerType": "",
+		"proptyType": "",
+		"district": "",
+		"numBedRms": "",
+		"price": "800000",
+		"landSize": "",
+		"BUA": "1300",
+		"stName": "",
+		"listPhotoIcon": "proptyPic-AJ-id1-1534665403987.png",
+		"ownerName": "AJ",
+		"ownerMobile": "12345678",
+		"ownerEmail": "",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}
+]

@@ -1,0 +1,244 @@
+[
+{
+			"idx_GreekAlphabet": 1,
+			"desc": "small alpha",
+			"unicodeHex": "03B1",
+			"chr": "α"
+		}, {
+			"idx_GreekAlphabet": 2,
+			"desc": "small beta",
+			"unicodeHex": "03B2",
+			"chr": "β"
+		}, {
+			"idx_GreekAlphabet": 3,
+			"desc": "small gamma",
+			"unicodeHex": "03B3",
+			"chr": "γ"
+		}, {
+			"idx_GreekAlphabet": 4,
+			"desc": "small delta",
+			"unicodeHex": "03B4",
+			"chr": "δ"
+		}, {
+			"idx_GreekAlphabet": 5,
+			"desc": "small epsilon",
+			"unicodeHex": "03B5",
+			"chr": "ε"
+		}, {
+			"idx_GreekAlphabet": 6,
+			"desc": "small zeta",
+			"unicodeHex": "03B6",
+			"chr": "ζ"
+		}, {
+			"idx_GreekAlphabet": 7,
+			"desc": "small eta",
+			"unicodeHex": "03B7",
+			"chr": "η"
+		}, {
+			"idx_GreekAlphabet": 8,
+			"desc": "small theta",
+			"unicodeHex": "03B8",
+			"chr": "θ"
+		}, {
+			"idx_GreekAlphabet": 9,
+			"desc": "small iota",
+			"unicodeHex": "03B9",
+			"chr": "ι"
+		}, {
+			"idx_GreekAlphabet": 10,
+			"desc": "small kappa",
+			"unicodeHex": "03BA",
+			"chr": "κ"
+		}, {
+			"idx_GreekAlphabet": 11,
+			"desc": "small lambda",
+			"unicodeHex": "03BB",
+			"chr": "λ"
+		}, {
+			"idx_GreekAlphabet": 12,
+			"desc": "small mu",
+			"unicodeHex": "03BC",
+			"chr": "μ"
+		}, {
+			"idx_GreekAlphabet": 13,
+			"desc": "small nu",
+			"unicodeHex": "03BD",
+			"chr": "ν"
+		}, {
+			"idx_GreekAlphabet": 14,
+			"desc": "small xi",
+			"unicodeHex": "03BE",
+			"chr": "ξ"
+		}, {
+			"idx_GreekAlphabet": 15,
+			"desc": "small omicron",
+			"unicodeHex": "03BF",
+			"chr": "ο"
+		}, {
+			"idx_GreekAlphabet": 16,
+			"desc": "small pi",
+			"unicodeHex": "03C0",
+			"chr": "π"
+		}, {
+			"idx_GreekAlphabet": 17,
+			"desc": "small rho",
+			"unicodeHex": "03C1",
+			"chr": "ρ"
+		}, {
+			"idx_GreekAlphabet": 18,
+			"desc": "small sigma",
+			"unicodeHex": "03C3",
+			"chr": "σ"
+		}, {
+			"idx_GreekAlphabet": 19,
+			"desc": "small tau",
+			"unicodeHex": "03C4",
+			"chr": "τ"
+		}, {
+			"idx_GreekAlphabet": 20,
+			"desc": "small upsilon",
+			"unicodeHex": "03C5",
+			"chr": "υ"
+		}, {
+			"idx_GreekAlphabet": 21,
+			"desc": "small phi",
+			"unicodeHex": "03C6",
+			"chr": "φ"
+		}, {
+			"idx_GreekAlphabet": 22,
+			"desc": "small chi",
+			"unicodeHex": "03C7",
+			"chr": "χ"
+		}, {
+			"idx_GreekAlphabet": 23,
+			"desc": "small psi",
+			"unicodeHex": "03C8",
+			"chr": "ψ"
+		}, {
+			"idx_GreekAlphabet": 24,
+			"desc": "small omega",
+			"unicodeHex": "03C9",
+			"chr": "ω"
+		}, {
+			"idx_GreekAlphabet": 25,
+			"desc": "capital alpha",
+			"unicodeHex": "0391",
+			"chr": "Α"
+		}, {
+			"idx_GreekAlphabet": 26,
+			"desc": "capital beta",
+			"unicodeHex": "0392",
+			"chr": "Β"
+		}, {
+			"idx_GreekAlphabet": 27,
+			"desc": "capital gamma",
+			"unicodeHex": "0393",
+			"chr": "Γ"
+		}, {
+			"idx_GreekAlphabet": 28,
+			"desc": "capital delta",
+			"unicodeHex": "0394",
+			"chr": "Δ"
+		}, {
+			"idx_GreekAlphabet": 29,
+			"desc": "capital epsilon",
+			"unicodeHex": "0395",
+			"chr": "Ε"
+		}, {
+			"idx_GreekAlphabet": 30,
+			"desc": "capital zeta",
+			"unicodeHex": "0396",
+			"chr": "Ζ"
+		}, {
+			"idx_GreekAlphabet": 31,
+			"desc": "capital eta",
+			"unicodeHex": "0397",
+			"chr": "Η"
+		}, {
+			"idx_GreekAlphabet": 32,
+			"desc": "capital theta",
+			"unicodeHex": "0398",
+			"chr": "Θ"
+		}, {
+			"idx_GreekAlphabet": 33,
+			"desc": "capital iota",
+			"unicodeHex": "0399",
+			"chr": "Ι"
+		}, {
+			"idx_GreekAlphabet": 34,
+			"desc": "capital kappa",
+			"unicodeHex": "039A",
+			"chr": "Κ"
+		}, {
+			"idx_GreekAlphabet": 35,
+			"desc": "capital lambda",
+			"unicodeHex": "039B",
+			"chr": "Λ"
+		}, {
+			"idx_GreekAlphabet": 36,
+			"desc": "capital mu",
+			"unicodeHex": "039C",
+			"chr": "Μ"
+		}, {
+			"idx_GreekAlphabet": 37,
+			"desc": "capital nu",
+			"unicodeHex": "039D",
+			"chr": "Ν"
+		}, {
+			"idx_GreekAlphabet": 38,
+			"desc": "capital xi",
+			"unicodeHex": "039E",
+			"chr": "Ξ"
+		}, {
+			"idx_GreekAlphabet": 39,
+			"desc": "capital omicron",
+			"unicodeHex": "039F",
+			"chr": "Ο"
+		}, {
+			"idx_GreekAlphabet": 40,
+			"desc": "capital pi",
+			"unicodeHex": "03A0",
+			"chr": "Π"
+		}, {
+			"idx_GreekAlphabet": 41,
+			"desc": "capital rho",
+			"unicodeHex": "03A1",
+			"chr": "Ρ"
+		}, {
+			"idx_GreekAlphabet": 42,
+			"desc": "capital sigma",
+			"unicodeHex": "03A3",
+			"chr": "Σ"
+		}, {
+			"idx_GreekAlphabet": 43,
+			"desc": "capital tau",
+			"unicodeHex": "03A4",
+			"chr": "Τ"
+		}, {
+			"idx_GreekAlphabet": 44,
+			"desc": "capital upsilon",
+			"unicodeHex": "03A5",
+			"chr": "Υ"
+		}, {
+			"idx_GreekAlphabet": 45,
+			"desc": "capital phi",
+			"unicodeHex": "03A6",
+			"chr": "Φ"
+		}, {
+			"idx_GreekAlphabet": 46,
+			"desc": "capital chi",
+			"unicodeHex": "03A7",
+			"chr": "Χ"
+		}, {
+			"idx_GreekAlphabet": 47,
+			"desc": "capital psi",
+			"unicodeHex": "03A8",
+			"chr": "Ψ"
+		}, {
+			"idx_GreekAlphabet": 48,
+			"desc": "capital omega",
+			"unicodeHex": "03A9",
+			"chr": "Ω"
+		}
+
+]

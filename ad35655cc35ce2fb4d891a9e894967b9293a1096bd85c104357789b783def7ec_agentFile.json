@@ -1,0 +1,45 @@
+[{
+		"usr": {
+			"encEmailID": "jskJIrKKswx4@uHMrr.nrj",
+			"hshPW": "288fc534f64a341b89fe789f576adcf06637e8762d86b0dbc2abd390eb974fd3",
+			"clntCreatDate": "2018-09-25T03:26:32.574Z",
+			"usrCode": "mindsoffire2@yahoo.com@JScorp",
+			"legalNameID": "Andrew J.",
+			"mobileNumID": "236236"
+		}
+	}, {
+		"id": 0,
+		"offerType": "",
+		"proptyType": "",
+		"district": "",
+		"numBedRms": "",
+		"price": "",
+		"landSize": "",
+		"BUA": "",
+		"stName": "",
+		"listPhotoIcon": "",
+		"ownerName": "ADD NEW",
+		"ownerMobile": "",
+		"ownerEmail": "",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}, {
+		"id": 1,
+		"offerType": "rent",
+		"proptyType": "condo",
+		"district": "3",
+		"numBedRms": "3",
+		"price": "2900",
+		"landSize": "667",
+		"BUA": "667",
+		"stName": "to remove the dummy line",
+		"listPhotoIcon": "proptyPic-TO REMOVE THE DUMMY-id1-1537846170284.jpeg",
+		"ownerName": "TO REMOVE THE DUMMY",
+		"ownerMobile": "94556047",
+		"ownerEmail": "mindsoffire2@yahoo.com",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}
+]

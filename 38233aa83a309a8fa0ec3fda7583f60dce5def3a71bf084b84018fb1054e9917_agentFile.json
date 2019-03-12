@@ -1,0 +1,45 @@
+[{
+		"usr": {
+			"encEmailID": "HkJwxyvHk@Hqqvwxjx.IL",
+			"hshPW": "e1e5dba484cef79d0ee7e3a53966a32ea4b53cc01ad1127a54c570e35c356a3b",
+			"clntCreatDate": "2018-08-20T03:33:17.657Z",
+			"usrCode": "andrewtan@apptreme.sg@JScorp",
+			"legalNameID": "Andrew @ Apptreme",
+			"mobileNumID": "87654321"
+		}
+	}, {
+		"id": 0,
+		"offerType": "",
+		"proptyType": "",
+		"district": "",
+		"numBedRms": "",
+		"price": "",
+		"landSize": "",
+		"BUA": "",
+		"stName": "",
+		"listPhotoIcon": "",
+		"ownerName": "ADD NEW",
+		"ownerMobile": "",
+		"ownerEmail": "",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}, {
+		"id": 1,
+		"offerType": "buy",
+		"proptyType": "hdb",
+		"district": "9",
+		"numBedRms": "3",
+		"price": "449600",
+		"landSize": "1300",
+		"BUA": "1300",
+		"stName": "queenstown",
+		"listPhotoIcon": "proptyPic-NEW AND NOW-id1-1534736097900.jpeg",
+		"ownerName": "NEW AND NOW",
+		"ownerMobile": "12345678",
+		"ownerEmail": "",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}
+]

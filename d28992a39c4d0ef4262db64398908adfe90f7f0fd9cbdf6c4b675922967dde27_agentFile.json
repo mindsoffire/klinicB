@@ -1,0 +1,28 @@
+[{
+		"usr": {
+			"encEmailID": "IskIHks@MrvjHsP.nrj",
+			"hshPW": "4650a89e4687d3cd841109805c3950699605d51dcba039626c1d6081e1fff4e2",
+			"clntCreatDate": "2019-02-07T08:32:35.024Z",
+			"usrCode": "sinsani@hotmail.com@JScorp",
+			"legalNameID": "Sardjono Hi",
+			"mobileNumID": "98766293"
+		}
+	}, {
+		"id": 0,
+		"offerType": "",
+		"proptyType": "",
+		"district": "",
+		"numBedRms": "",
+		"price": "",
+		"landSize": "",
+		"BUA": "",
+		"stName": "",
+		"listPhotoIcon": "",
+		"ownerName": "ADD NEW",
+		"ownerMobile": "",
+		"ownerEmail": "",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}
+]

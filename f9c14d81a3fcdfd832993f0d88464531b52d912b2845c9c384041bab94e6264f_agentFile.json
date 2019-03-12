@@ -1,0 +1,45 @@
+[{
+		"usr": {
+			"encEmailID": "IxvMvHk@Hqqvwxjx.IL",
+			"hshPW": "f89d9120d2d22ae17510b62223fbfd1b002b176417f7dda110786a47b85d1b07",
+			"clntCreatDate": "2018-08-21T05:27:37.680Z",
+			"usrCode": "sethtan@apptreme.sg@JScorp",
+			"legalNameID": null,
+			"mobileNumID": null
+		}
+	}, {
+		"id": 0,
+		"offerType": "",
+		"proptyType": "",
+		"district": "",
+		"numBedRms": "",
+		"price": "",
+		"landSize": "",
+		"BUA": "",
+		"stName": "",
+		"listPhotoIcon": "",
+		"ownerName": "ADD NEW",
+		"ownerMobile": "",
+		"ownerEmail": "",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}, {
+		"id": 1,
+		"offerType": "buy",
+		"proptyType": "landed",
+		"district": "9",
+		"numBedRms": "3",
+		"price": "5000000",
+		"landSize": "1500",
+		"BUA": "1500",
+		"stName": "Compassvale drive",
+		"listPhotoIcon": "proptyPic-TAN JIAN LIANG -id1-1534829447313.jpeg",
+		"ownerName": "TAN JIAN LIANG ",
+		"ownerMobile": "88099988",
+		"ownerEmail": "",
+		"propyFullAddr": "8-55",
+		"postCode": "119001",
+		"is_deleted": false
+	}
+]

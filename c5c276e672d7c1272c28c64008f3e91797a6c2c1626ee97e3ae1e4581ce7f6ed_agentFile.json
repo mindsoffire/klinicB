@@ -1,0 +1,43 @@
+[{
+		"usr": {
+			"encEmailID": "jskJIrKKswx@LjHsP.nrj",
+			"hshPW": "a98f0e1b2f82ce347546d3b9d1fcfd497346d19684dd5c535b5e20ca4358142f",
+			"clntCreatDate": "2018-09-10T07:27:23.986Z",
+			"usrCode": "mindsoffire@gmail.com@JScorp"
+		}
+	}, {
+		"id": 0,
+		"offerType": "",
+		"proptyType": "",
+		"district": "",
+		"numBedRms": "",
+		"price": "",
+		"landSize": "",
+		"BUA": "",
+		"stName": "",
+		"listPhotoIcon": "",
+		"ownerName": "ADD NEW",
+		"ownerMobile": "",
+		"ownerEmail": "",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}, {
+		"id": 1,
+		"offerType": "buy",
+		"proptyType": "gcb",
+		"district": "10",
+		"numBedRms": "5",
+		"price": "13000000",
+		"landSize": "2300",
+		"BUA": "2300",
+		"stName": "Joshua Ave.",
+		"listPhotoIcon": "proptyPic-ANDREW TAN-id1-1536564907636.jpeg",
+		"ownerName": "ANDREW TAN",
+		"ownerMobile": "98765432",
+		"ownerEmail": "mindsoffire@gmail.com",
+		"propyFullAddr": "9 Joshua Ave.",
+		"postCode": "923009",
+		"is_deleted": false
+	}
+]

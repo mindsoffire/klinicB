@@ -1,0 +1,45 @@
+[{
+		"usr": {
+			"encEmailID": "HkJwxyswsI13@uHMrr.nrj",
+			"hshPW": "288fc534f64a341b89fe789f576adcf06637e8762d86b0dbc2abd390eb974fd3",
+			"clntCreatDate": "2019-01-31T08:46:59.186Z",
+			"usrCode": "andrewiris67@yahoo.com@JScorp",
+			"legalNameID": null,
+			"mobileNumID": "94556047"
+		}
+	}, {
+		"id": 0,
+		"offerType": "",
+		"proptyType": "",
+		"district": "",
+		"numBedRms": "",
+		"price": "",
+		"landSize": "",
+		"BUA": "",
+		"stName": "",
+		"listPhotoIcon": "",
+		"ownerName": "ADD NEW",
+		"ownerMobile": "",
+		"ownerEmail": "",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}, {
+		"id": 1,
+		"offerType": "buy",
+		"proptyType": "condo",
+		"district": "10",
+		"numBedRms": "3",
+		"price": "1300000",
+		"landSize": "900",
+		"BUA": "900",
+		"stName": "Pasir Ris St 11",
+		"listPhotoIcon": "proptyPic-IRIS CHUANG-id1-1548929205292.jpeg",
+		"ownerName": "IRIS CHUANG",
+		"ownerMobile": "98767496",
+		"ownerEmail": "andrewiris67@yahoo.com",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}
+]

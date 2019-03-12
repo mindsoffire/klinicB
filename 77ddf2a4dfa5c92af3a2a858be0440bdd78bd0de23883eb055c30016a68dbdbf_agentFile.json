@@ -1,0 +1,46 @@
+[{
+		"usr": {
+			"encEmailID": "HNqMrkxMrjx@uHMrr.nrj",
+			"hshPW": "a98f0e1b2f82ce347546d3b9d1fcfd497346d19684dd5c535b5e20ca4358142f",
+			"clntCreatDate": "2018-09-22T11:07:30.176Z",
+			"usrCode": "ajphonehome@yahoo.com@JScorp",
+			"legalNameID": "AuthSIMToken as long term auth serverInMobileTech",
+			"mobileNumID": "9455.6047"
+		}
+	}, {
+		"id": 0,
+		"offerType": "",
+		"proptyType": "",
+		"district": "",
+		"numBedRms": "",
+		"price": "",
+		"landSize": "",
+		"BUA": "",
+		"stName": "",
+		"listPhotoIcon": "",
+		"ownerName": "ADD NEW",
+		"ownerMobile": "",
+		"ownerEmail": "",
+		"propyFullAddr": "",
+		"postCode": "",
+		"is_deleted": false
+	}, {
+		"id": 1,
+		"offerType": "rent",
+		"proptyType": "hdb",
+		"district": "3",
+		"numBedRms": "3",
+		"price": "1200",
+		"landSize": "610",
+		"BUA": "610",
+		"stName": "Begin to work on SIMTech",
+		"listPhotoIcon": "proptyPic-BEGIN SIMTECH-id1-1537614707021.jpeg",
+		"ownerName": "BEGIN SIMTECH",
+		"ownerMobile": "346346473",
+		"ownerEmail": "",
+		"propyFullAddr": "with authSIMToken",
+		"postCode": "",
+		"is_deleted": false,
+		"chgPic": "resetPic"
+	}
+]
